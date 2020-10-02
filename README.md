@@ -1,5 +1,5 @@
 # terrorism-metagraphs
-This repository contains the data and code for replicating the analyses presented in the paper "Learning Future Terrorist Targets Trhough Temporal Meta-Graphs".
+This repository contains the data and code for replicating the analyses presented in the paper "Learning Future Terrorist Targets Trhough Temporal Meta-Graphs" authored with Mihovil Bartulovic and Kathleen M. Carley (School of Computer Science - Carnegie Mellon University).
 
 
 The repo contains two folders: the (1) Datasets and the (2) Code one. 
