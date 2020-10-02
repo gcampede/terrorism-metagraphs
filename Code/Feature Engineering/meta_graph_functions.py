@@ -8,14 +8,10 @@ Created on Tue Sep 15 09:53:53 2020
 
 
 import numpy as np
-import matplotlib.pyplot as plt
-%matplotlib qt
 import pandas as pd
 import math
 import patsy
-import seaborn as sns
 import os
-from scipy.stats import kde
 from functools import reduce
 import networkx as nx
 
