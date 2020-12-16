@@ -16,7 +16,7 @@ def prepare_data(path,target_column_start,remove_threshold = 10):
 
 
 
-    df = pd.read_csv(path)
+    df = pd.read_csv(path, index_col=0)
 
     
 
